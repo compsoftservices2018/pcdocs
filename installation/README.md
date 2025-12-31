@@ -33,6 +33,3 @@ Coming soon....
 #### Stop Application
 - Open command prompt and go to application `\\root` folder e.g. C:\OnlineApp
 - Run command  `stop-application.bat`
-
-#### Final folder structure 
-![folder_strucure.png](folder_strucure.png)
